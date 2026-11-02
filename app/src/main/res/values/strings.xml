@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Book Atlas</string>
+    <string name="catalog">Каталог</string>
+    <string name="favorites">Избранное</string>
+    <string name="book_cover">Обложка книги</string>
+</resources>
